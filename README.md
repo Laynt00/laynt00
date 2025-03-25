@@ -1,6 +1,7 @@
 # 💫 Sobre mí:
-Actualmente estoy desarrollando pequeños proyectos en React y realizando un curso en C en 42 Málaga
-
+Actualmente estoy desarrollando pequeños proyectos en React y realizando un curso en C en 42 Málaga<br/>
+  -&nbsp;[Koolorgs](https://koolorgs-host.web.app/): Una web sencilla que genera una paleta de colores haciendo uso de la libreria Values.js<br/>
+  -&nbsp;[TODO_LIST](https://koolorgs-host.web.app/): Crea, edita y borra tareas pendientes de forma local.
 
 ## 🌐 Contacto:
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) &nbsp;&nbsp;&nbsp;[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alvaro.to.cia@gmail.com) 
