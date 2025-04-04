@@ -1,5 +1,5 @@
 # 💫 Sobre mí:
-Actualmente estoy desarrollando pequeños proyectos en React y realizando un curso en C en 42 Málaga<br/>
+Actualmente estoy desarrollando proyectos en React y realizando un curso en C en 42 Málaga<br/>
   -&nbsp;[TOTAL GYM](https://gym-react-877f8.web.app/): Una app que gestiona tus entrenamientos de gimnasio en función de tus necesidades<br/>
   -&nbsp;[NASA DAILY](https://nasa-daily-react.web.app/): Cada día muestra una imagen de la nasa extraida de su API APOD<br/>
   -&nbsp;[Koolorgs](https://koolorgs-host.web.app/): Una web sencilla que genera una paleta de colores haciendo uso de la libreria Values.js<br/>
